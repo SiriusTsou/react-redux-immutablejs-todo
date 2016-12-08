@@ -13,6 +13,15 @@ Please check out the [Official Site Setup](https://facebook.github.io/react/docs
 3. `$cd react-redux-immutablejs-todo`
 3. `npm run dev`
 
+## Way to Go
+
+#### v1.0+ 
+- [ ] Edit, Complete...
+- [ ] Travis Testing 
+- [ ] Strict file and function comment
+- [ ] Better ESlint Rule
+- [ ] Better CSS style like sass or postcss 
+
 ## Dependencies
 1. react 15.4.1
 2. redux
