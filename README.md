@@ -16,6 +16,8 @@ Please check out the [Official Site Setup](https://facebook.github.io/react/docs
 ## Way to Go
 
 #### v1.0+ 
+- [ ] fix package.json devDependencies to dependencies
+- [ ] maybe list file structure
 - [ ] Edit, Complete...
 - [ ] Travis Testing 
 - [ ] Strict file and function comment
