@@ -11,7 +11,8 @@ Please check out the [Official Site Setup](https://facebook.github.io/react/docs
 1. open your terminal
 2. `$git clone https://github.com/SiriusTsou/react-redux-immutablejs-todo.git`
 3. `$cd react-redux-immutablejs-todo`
-3. `npm run dev`
+4. `npm i`
+5. `npm run dev`
 
 ## Way to Go
 
