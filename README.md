@@ -39,6 +39,7 @@ Please check out the [Official Site Setup](https://facebook.github.io/react/docs
 1. [React 官方網站](https://facebook.github.io/react/)
 2. [Redux 官方文件](http://redux.js.org/index.html)
 3. [Immutable.js 官方文件](https://facebook.github.io/immutable-js/)
+4. [從零開始學 ReactJS](https://github.com/kdchang/reactjs101)
 
 ## License
 MIT
